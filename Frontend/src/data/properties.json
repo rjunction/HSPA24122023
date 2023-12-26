@@ -1,0 +1,56 @@
+[{
+    "Id":1,
+    "Name":"Baba Cottage",
+    "Type":"House",
+    "SellRent":1,
+    "Price":12000,
+    "Image":"prop-1"
+    },
+    {
+      "Id":6,
+      "Name":"Goa House",
+      "Type":"House",
+      "SellRent":2,
+      "Price":12000,
+      "Image":"prop-6"
+      },
+      {
+        "Id":7,
+        "Name":"Ramanada",
+        "Type":"House",
+        "SellRent":1,
+        "Price":12000
+        
+        },
+        {
+          "Id":2,
+          "Name":"Nariman House",
+          "Type":"House",
+          "SellRent":1,
+          "Price":12000,
+          "Image":"prop-2"
+          },
+          {
+            "Id":3,
+            "Name":"Om Tower",
+            "Type":"Apartment",
+            "SellRent":2,
+            "Price":12000,
+            "Image":"prop-3"
+            },
+            {
+              "Id":4,
+              "Name":"Krishna Cottage",
+              "Type":"House",
+              "SellRent":2,
+              "Price":12000,
+              "Image":"prop-4"
+              },
+              {
+                "Id":5,
+                "Name":"Mittal Nivas",
+                "Type":"House",
+                "SellRent":1,
+                "Price":12000,
+                "Image":"prop-5"
+                }]
